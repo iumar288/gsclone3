@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "gsclone3",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732555192856,
+    "databaseType": "mongodb",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NzA5NGQ5Nzg0NTNkYmRmOWJhZmM1Yjk2ZTBkYmU1OTBmNmZhZGI5YmQyNzNmMzMyZWY2YmExNGQxNDk0YjY3MTVhYzAxOTg5YjlhMTE2OGJjMGIxNGY1MWQ4ODgyYWZhNzcwNDZmODFiNDhkMGU3NGUyMGQzMDgxMjVlM2YyMDI=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
